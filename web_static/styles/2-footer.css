@@ -1,0 +1,27 @@
+footer {
+    position: fixed;
+<<<<<<< HEAD
+    bottom: 0;
+    width: 100%;
+    background-color: #00FF00;
+    height: 60px;
+}
+
+footer p {
+    text-align: center;
+    margin: 20px;
+=======
+    background: #00FF00;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+}
+footer p {
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    bottom: 0;
+    right: 0;
+    left: 0;
+>>>>>>> 3be6b736b343528875751ac562c2e09313399515
+}
